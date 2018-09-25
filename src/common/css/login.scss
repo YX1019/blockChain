@@ -1,0 +1,120 @@
+.login{
+  padding: 40px 0;
+  background: url(../img/loginBg.jpg) no-repeat;
+  background-size:100% 100%;
+}
+.loginBox{
+  width:440px;
+  margin: 0 auto;
+  background: #fff;
+  box-sizing: border-box;
+  padding: 30px;
+  border-radius: 8px;
+  min-height: 545px;
+}
+.loginBox h1{
+  font-size: 24px;
+  color: #191919;
+  margin-bottom: 10px;
+}
+.loginBox h1 a{
+  color: #6b6b6b;
+  font-size: 17px;
+  margin-left: 25px;
+}
+.closed{
+  float: right;
+  font-size: 24px;
+  color: #999;
+}
+.loginItem{
+  margin-top: 25px;
+}
+.loginInput{
+  width:100%;
+  border:1px solid #ccc;
+  box-sizing: border-box;
+  padding: 5px 20px;
+  background: #f6f8fb;
+  height: 60px;
+  font-size:17px;
+  border-radius: 5px;
+}
+.forgotPwd{
+  text-align: right;
+  font-size: 14px;
+  color: #6b6b6b;
+  display: block;
+  width:100%;
+  line-height: 40px;
+}
+.loginBtn{
+  width:100%;
+  height: 60px;
+  background: #00acec;
+  color: #fff;
+  margin: 35px 0;
+  border-radius: 5px;
+  font-size: 17px;
+}
+.anotherWay{
+  line-height: 60px;
+  color: #1a1a1a;
+  text-align: center;
+}
+.wayList{
+  width:180px;
+  margin: 0 auto;
+  text-align: left;
+}
+.wayList li{
+  display: inline-block;
+  width:50px;
+  text-align: center;
+  color: #7f7f7f;
+  font-size: 15px;
+}
+.codeInput{
+  width:60%;
+}
+.imgCode{
+  float: right;
+  font-size: 13px;
+  color: #7f7f7f;
+  text-align: center;
+}
+.imgCode img{
+  width:125px;
+  height: 45px;
+}
+.codeBtn{
+  width:125px;
+  height: 60px;
+  color: #fff;
+  font-size: 17px;
+  float: right;
+  background: #00acec;
+  border-radius: 5px;
+}
+.loginBtn2{
+  margin-bottom: 15px;
+}
+.loginTxt{
+  text-align: center;
+  color: #1a1a1a;
+  font-size: 17px;
+  width:100%;
+  display: block;
+}
+.loginTxt2{
+  text-align: center;
+  color: #1a1a1a;
+  font-size: 14px;
+  width:100%;
+  display: block;
+}
+.weCode{
+  width:280px;
+  border:1px solid #ccc;
+  margin: 10px 0;
+}
